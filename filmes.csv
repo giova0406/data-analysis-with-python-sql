@@ -1,0 +1,98 @@
+id,titulo,titulo_original,ano_lancamento,duracao_minutos,orcamento_milhoes,receita_milhoes,classificacao_indicativa,idioma_original,pais_origem,diretor,estudio
+1,O Último Horizonte,The Last Horizon,2023,148,180.0,892.5,14 anos,Inglês,EUA,Christopher Nolan,Warner Bros
+2,Memórias de Outono,Autumn Memories,2022,125,45.0,178.3,12 anos,Inglês,EUA,Greta Gerwig,A24
+3,Código Vermelho,Red Code,2023,132,95.0,445.2,16 anos,Inglês,EUA,David Fincher,Netflix
+4,A Última Dança,The Final Dance,2021,118,28.0,89.5,10 anos,Inglês,Reino Unido,Barry Jenkins,Amazon Studios
+5,Invasão Silenciosa,Silent Invasion,2022,156,220.0,1245.8,14 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+6,Corações Partidos,Broken Hearts,2020,98,15.0,67.2,Livre,Português,Brasil,Barry Jenkins,Amazon Studios
+7,O Mistério do Lago,Lake Mystery,2023,142,75.0,234.5,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+8,Velocidade Máxima,Maximum Speed,2021,128,165.0,789.3,12 anos,Inglês,EUA,James Cameron,Paramount
+9,Sonhos de Liberdade,Dreams of Freedom,2022,175,85.0,156.7,14 anos,Inglês,EUA,Ava DuVernay,Netflix
+10,A Fortaleza,The Fortress,2020,138,120.0,567.8,16 anos,Inglês,EUA,Ridley Scott,20th Century Studios
+11,Magia Urbana,Urban Magic,2023,112,55.0,234.1,10 anos,Inglês,EUA,Wes Anderson,Disney
+12,Cicatrizes do Tempo,Scars of Time,2021,165,95.0,312.4,18 anos,Inglês,EUA,Martin Scorsese,Paramount
+13,O Segredo da Floresta,Forest Secret,2022,108,40.0,189.5,10 anos,Inglês,EUA,Guillermo del Toro,Disney
+14,Além das Estrelas,Beyond the Stars,2023,162,250.0,1567.3,12 anos,Inglês,EUA,James Cameron,Disney
+15,Sombras do Passado,Shadows of the Past,2020,145,65.0,198.7,14 anos,Inglês,Reino Unido,Christopher Nolan,Warner Bros
+16,Amor em Paris,Love in Paris,2021,105,25.0,145.2,Livre,Francês,França,Greta Gerwig,A24
+17,Fúria Ancestral,Ancestral Fury,2022,134,145.0,678.9,16 anos,Inglês,EUA,Ryan Coogler,Disney
+18,O Despertar,The Awakening,2023,128,88.0,345.6,14 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+19,Réquiem para um Sonho,Requiem for a Dream,2020,156,78.0,234.5,18 anos,Inglês,EUA,Damien Chazelle,Lionsgate
+20,Galáxia Perdida,Lost Galaxy,2021,148,195.0,987.6,12 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+21,A Promessa,The Promise,2022,115,35.0,112.3,12 anos,Espanhol,México,Guillermo del Toro,Netflix
+22,Vingança Implacável,Relentless Revenge,2023,126,110.0,534.2,18 anos,Inglês,EUA,Quentin Tarantino,Columbia Pictures
+23,Mundo Submerso,Submerged World,2020,138,175.0,823.4,10 anos,Inglês,EUA,James Cameron,Disney
+24,Caminhos Cruzados,Crossed Paths,2021,122,42.0,167.8,14 anos,Inglês,EUA,Barry Jenkins,A24
+25,O Enigma,The Enigma,2022,152,95.0,456.7,14 anos,Inglês,EUA,David Fincher,Netflix
+26,Aurora Boreal,Northern Lights,2023,118,68.0,234.5,10 anos,Inglês,Canadá,Denis Villeneuve,Amazon Studios
+27,Destino Final,Final Destination,2020,98,32.0,245.6,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+28,O Labirinto,The Labyrinth,2021,145,85.0,389.2,14 anos,Inglês,EUA,Guillermo del Toro,Warner Bros
+29,Amor Proibido,Forbidden Love,2022,112,28.0,98.7,14 anos,Italiano,Itália,Greta Gerwig,A24
+30,Caçadores de Sombras,Shadow Hunters,2023,136,125.0,567.8,14 anos,Inglês,EUA,Ryan Coogler,Disney
+31,O Retorno,The Return,2020,158,145.0,678.9,12 anos,Inglês,EUA,Christopher Nolan,Warner Bros
+32,Tempestade de Fogo,Fire Storm,2021,124,98.0,445.6,14 anos,Inglês,EUA,Ridley Scott,Paramount
+33,Criaturas da Noite,Night Creatures,2022,108,55.0,312.4,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+34,A Jornada,The Journey,2023,142,75.0,289.5,10 anos,Inglês,EUA,Wes Anderson,Disney
+35,Operação Resgate,Rescue Operation,2020,128,135.0,623.4,14 anos,Inglês,EUA,James Cameron,Paramount
+36,Doce Vingança,Sweet Revenge,2021,118,48.0,234.5,18 anos,Inglês,EUA,Quentin Tarantino,Columbia Pictures
+37,O Escolhido,The Chosen One,2022,155,165.0,987.6,12 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+38,Fragmentos,Fragments,2023,105,22.0,89.7,14 anos,Inglês,EUA,Barry Jenkins,A24
+39,Guerreiros do Amanhecer,Dawn Warriors,2020,148,178.0,856.3,14 anos,Inglês,EUA,Patty Jenkins,Warner Bros
+40,O Observador,The Watcher,2021,132,65.0,345.6,16 anos,Inglês,EUA,David Fincher,Netflix
+41,Revolução,Revolution,2022,168,125.0,567.8,14 anos,Inglês,EUA,Ava DuVernay,Netflix
+42,A Ilha,The Island,2023,118,85.0,423.5,12 anos,Inglês,EUA,Ridley Scott,20th Century Studios
+43,Conexão Fatal,Fatal Connection,2020,126,72.0,298.7,18 anos,Inglês,EUA,David Fincher,Paramount
+44,Império Secreto,Secret Empire,2021,152,195.0,1123.4,14 anos,Inglês,EUA,Ryan Coogler,Disney
+45,Último Suspiro,Last Breath,2022,98,18.0,67.8,14 anos,Coreano,Coreia do Sul,Bong Joon-ho,Netflix
+46,O Pacto,The Pact,2023,138,95.0,456.7,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+47,Horizonte Negro,Black Horizon,2020,145,115.0,534.2,14 anos,Inglês,EUA,Christopher Nolan,Warner Bros
+48,Despertar Digital,Digital Awakening,2021,128,88.0,378.9,12 anos,Inglês,EUA,Denis Villeneuve,Amazon Studios
+49,A Herança,The Inheritance,2022,135,45.0,189.5,14 anos,Inglês,Reino Unido,Greta Gerwig,A24
+50,Zona de Combate,Combat Zone,2023,156,185.0,923.4,16 anos,Inglês,EUA,Ridley Scott,Paramount
+51,Melodia do Coração,Heart Melody,2020,108,32.0,156.7,Livre,Inglês,EUA,Damien Chazelle,Lionsgate
+52,Predadores,Predators,2021,124,95.0,467.8,18 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+53,Terra Nova,New Earth,2022,162,225.0,1345.6,12 anos,Inglês,EUA,James Cameron,Disney
+54,Sussurros,Whispers,2023,112,38.0,167.8,14 anos,Japonês,Japão,Bong Joon-ho,A24
+55,O Protetor,The Protector,2020,128,125.0,589.5,14 anos,Inglês,EUA,Ryan Coogler,Disney
+56,Abismo,Abyss,2021,145,175.0,789.3,14 anos,Inglês,EUA,James Cameron,Disney
+57,Silêncio Mortal,Deadly Silence,2022,118,55.0,278.9,18 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+58,O Mensageiro,The Messenger,2023,132,68.0,312.4,12 anos,Inglês,EUA,Barry Jenkins,Amazon Studios
+59,Império do Sol,Empire of the Sun,2020,165,145.0,623.4,14 anos,Inglês,EUA,Steven Spielberg,Universal Pictures
+60,A Fuga,The Escape,2021,118,78.0,389.5,14 anos,Inglês,EUA,Edgar Wright,Columbia Pictures
+61,Renascimento,Rebirth,2022,148,95.0,456.7,12 anos,Inglês,EUA,Chloe Zhao,Disney
+62,Caos Urbano,Urban Chaos,2023,126,115.0,567.8,16 anos,Inglês,EUA,David Fincher,Netflix
+63,O Sacrifício,The Sacrifice,2020,155,85.0,234.5,14 anos,Inglês,EUA,Martin Scorsese,Paramount
+64,Luz nas Trevas,Light in Darkness,2021,138,65.0,298.7,12 anos,Inglês,EUA,Ava DuVernay,Netflix
+65,O Caçador,The Hunter,2022,124,98.0,445.6,16 anos,Inglês,EUA,Quentin Tarantino,Columbia Pictures
+66,Mundo Perdido,Lost World,2023,152,215.0,1234.5,10 anos,Inglês,EUA,Steven Spielberg,Universal Pictures
+67,Confissões,Confessions,2020,105,28.0,112.3,14 anos,Inglês,EUA,Greta Gerwig,A24
+68,Fronteira Final,Final Frontier,2021,168,245.0,1456.7,12 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+69,O Veredito,The Verdict,2022,142,75.0,345.6,14 anos,Inglês,EUA,David Fincher,Netflix
+70,Almas Gêmeas,Twin Souls,2023,115,42.0,178.9,Livre,Inglês,EUA,Barry Jenkins,A24
+71,Operação Fantasma,Ghost Operation,2020,128,145.0,678.9,14 anos,Inglês,EUA,Christopher Nolan,Warner Bros
+72,O Infiltrado,The Infiltrator,2021,136,88.0,423.5,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+73,Destinos Cruzados,Crossed Destinies,2022,125,55.0,234.5,12 anos,Espanhol,México,Guillermo del Toro,Netflix
+74,Apocalipse,Apocalypse,2023,175,285.0,1678.9,14 anos,Inglês,EUA,James Cameron,Disney
+75,O Artista,The Artist,2020,98,15.0,89.5,10 anos,Francês,França,Wes Anderson,A24
+76,Legado de Sangue,Blood Legacy,2021,148,125.0,567.8,18 anos,Inglês,EUA,Martin Scorsese,Paramount
+77,Espíritos,Spirits,2022,118,48.0,256.7,16 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+78,O Inventor,The Inventor,2023,132,72.0,312.4,10 anos,Inglês,EUA,Wes Anderson,Disney
+79,Cidade Perdida,Lost City,2020,125,95.0,456.7,12 anos,Inglês,EUA,Steven Spielberg,Universal Pictures
+80,O Guardião,The Guardian,2021,145,165.0,823.4,14 anos,Inglês,EUA,Ryan Coogler,Disney
+81,Memórias Roubadas,Stolen Memories,2022,118,58.0,267.8,14 anos,Inglês,EUA,David Fincher,Netflix
+82,O Desafio,The Challenge,2023,138,98.0,445.6,12 anos,Inglês,EUA,Damien Chazelle,Lionsgate
+83,Eternidade,Eternity,2020,152,125.0,534.2,12 anos,Inglês,EUA,Chloe Zhao,Disney
+84,Noite Eterna,Eternal Night,2021,108,65.0,312.4,18 anos,Inglês,EUA,Jordan Peele,Universal Pictures
+85,O Herdeiro,The Heir,2022,135,78.0,356.7,14 anos,Inglês,Reino Unido,Christopher Nolan,Warner Bros
+86,Revolução Digital,Digital Revolution,2023,148,175.0,923.4,12 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+87,A Verdade,The Truth,2020,112,35.0,156.7,14 anos,Inglês,EUA,Greta Gerwig,A24
+88,Território Hostil,Hostile Territory,2021,128,115.0,534.2,16 anos,Inglês,EUA,Ridley Scott,20th Century Studios
+89,O Prodígio,The Prodigy,2022,125,48.0,234.5,10 anos,Inglês,EUA,Barry Jenkins,A24
+90,Invasores,Invaders,2023,155,198.0,1023.4,14 anos,Inglês,EUA,Denis Villeneuve,Warner Bros
+91,Canção do Mar,Song of the Sea,2020,105,28.0,112.3,Livre,Inglês,EUA,Guillermo del Toro,Disney
+92,O Negociador,The Negotiator,2021,138,85.0,389.5,14 anos,Inglês,EUA,David Fincher,Paramount
+93,Ponto de Ruptura,Breaking Point,2022,118,72.0,345.6,16 anos,Inglês,EUA,Quentin Tarantino,Columbia Pictures
+94,A Lenda,The Legend,2023,162,185.0,967.8,12 anos,Inglês,EUA,Steven Spielberg,Universal Pictures
+95,Fora de Controle,Out of Control,2020,124,95.0,456.7,14 anos,Inglês,EUA,Edgar Wright,Columbia Pictures
+96,O Sobrevivente,The Survivor,2021,148,125.0,589.5,14 anos,Inglês,EUA,Ridley Scott,Paramount
+97,Miragem,Mirage,2022,115,55.0,267.8,12 anos,Inglês,EUA,Christopher Nolan,Warner Bros

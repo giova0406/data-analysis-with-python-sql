@@ -1,0 +1,401 @@
+id,filme_id,premio,categoria,ano,resultado
+1,1,Oscar,Melhores Efeitos Visuais,2024,Indicado
+2,2,BAFTA,Melhor Ator,2023,Indicado
+3,2,Oscar,Melhores Efeitos Visuais,2022,Indicado
+4,2,Cannes,Melhor Atriz,2022,Indicado
+5,2,BAFTA,Melhor Fotografia,2022,Vencedor
+6,2,Venice Film Festival,Melhor Ator,2022,Indicado
+7,2,Sundance,Melhor Fotografia,2022,Indicado
+8,2,Globo de Ouro,Melhor Roteiro Adaptado,2023,Indicado
+9,3,BAFTA,Melhor Roteiro Original,2023,Indicado
+10,3,Globo de Ouro,Melhor Roteiro Adaptado,2023,Indicado
+11,3,Venice Film Festival,Melhor Roteiro Original,2023,Indicado
+12,3,Venice Film Festival,Melhor Ator,2023,Indicado
+13,3,Sundance,Melhor Roteiro Original,2023,Indicado
+14,3,Globo de Ouro,Melhor Ator,2024,Vencedor
+15,3,Cannes,Melhor Atriz,2023,Indicado
+16,3,Sundance,Melhor Atriz,2024,Vencedor
+17,4,BAFTA,Melhor Edição,2021,Indicado
+18,4,Oscar,Melhor Diretor,2021,Indicado
+19,4,Venice Film Festival,Melhor Fotografia,2022,Indicado
+20,4,BAFTA,Melhor Edição,2021,Indicado
+21,4,BAFTA,Melhor Trilha Sonora,2022,Vencedor
+22,4,Venice Film Festival,Melhores Efeitos Visuais,2022,Indicado
+23,4,Sundance,Melhor Edição,2022,Indicado
+24,4,Cannes,Melhor Ator,2022,Indicado
+25,5,Globo de Ouro,Melhor Filme,2023,Indicado
+26,5,Oscar,Melhor Trilha Sonora,2023,Indicado
+27,5,Oscar,Melhor Roteiro Original,2022,Indicado
+28,6,Cannes,Melhor Edição,2020,Indicado
+29,6,Cannes,Melhor Edição,2021,Indicado
+30,6,Venice Film Festival,Melhor Edição,2020,Vencedor
+31,6,Globo de Ouro,Melhor Roteiro Original,2020,Vencedor
+32,6,Globo de Ouro,Melhor Ator,2021,Indicado
+33,6,Sundance,Melhor Trilha Sonora,2020,Vencedor
+34,6,BAFTA,Melhor Ator,2021,Indicado
+35,7,Venice Film Festival,Melhor Fotografia,2023,Indicado
+36,7,Sundance,Melhor Ator,2023,Indicado
+37,7,BAFTA,Melhor Diretor,2024,Indicado
+38,7,Globo de Ouro,Melhor Atriz,2023,Indicado
+39,7,Sundance,Melhor Edição,2023,Indicado
+40,7,Globo de Ouro,Melhor Roteiro Adaptado,2023,Indicado
+41,8,Sundance,Melhor Diretor,2021,Indicado
+42,8,Sundance,Melhor Roteiro Adaptado,2022,Indicado
+43,8,Venice Film Festival,Melhores Efeitos Visuais,2022,Indicado
+44,8,Venice Film Festival,Melhor Roteiro Original,2021,Indicado
+45,8,Venice Film Festival,Melhor Trilha Sonora,2021,Indicado
+46,8,Sundance,Melhores Efeitos Visuais,2022,Vencedor
+47,9,BAFTA,Melhor Roteiro Adaptado,2022,Indicado
+48,9,Venice Film Festival,Melhor Roteiro Original,2023,Indicado
+49,9,Oscar,Melhor Fotografia,2023,Indicado
+50,9,Oscar,Melhor Atriz,2023,Vencedor
+51,9,Cannes,Melhor Filme,2022,Vencedor
+52,10,Cannes,Melhor Fotografia,2021,Indicado
+53,10,Cannes,Melhor Edição,2021,Indicado
+54,10,Oscar,Melhores Efeitos Visuais,2021,Indicado
+55,10,BAFTA,Melhor Fotografia,2020,Vencedor
+56,11,Sundance,Melhores Efeitos Visuais,2023,Indicado
+57,11,Sundance,Melhor Edição,2024,Indicado
+58,11,BAFTA,Melhor Roteiro Original,2023,Indicado
+59,11,Oscar,Melhor Roteiro Original,2023,Indicado
+60,12,Venice Film Festival,Melhor Edição,2022,Indicado
+61,13,Venice Film Festival,Melhor Roteiro Adaptado,2023,Indicado
+62,13,Oscar,Melhor Edição,2022,Indicado
+63,14,Cannes,Melhor Roteiro Original,2023,Indicado
+64,14,Cannes,Melhor Atriz,2023,Vencedor
+65,14,Venice Film Festival,Melhor Diretor,2024,Indicado
+66,15,Oscar,Melhor Atriz,2021,Indicado
+67,16,Oscar,Melhor Atriz,2021,Indicado
+68,16,BAFTA,Melhor Diretor,2021,Vencedor
+69,16,Venice Film Festival,Melhores Efeitos Visuais,2022,Indicado
+70,16,Globo de Ouro,Melhor Roteiro Original,2021,Indicado
+71,16,Cannes,Melhor Roteiro Original,2022,Vencedor
+72,17,Sundance,Melhor Fotografia,2022,Indicado
+73,17,Globo de Ouro,Melhor Diretor,2023,Indicado
+74,17,Venice Film Festival,Melhor Diretor,2023,Vencedor
+75,17,BAFTA,Melhor Diretor,2023,Indicado
+76,17,Sundance,Melhor Ator,2023,Vencedor
+77,17,BAFTA,Melhor Filme,2023,Indicado
+78,18,Sundance,Melhor Edição,2023,Indicado
+79,18,BAFTA,Melhor Roteiro Adaptado,2024,Vencedor
+80,19,BAFTA,Melhor Ator,2020,Indicado
+81,20,Sundance,Melhor Fotografia,2021,Indicado
+82,21,BAFTA,Melhor Roteiro Original,2022,Vencedor
+83,21,Sundance,Melhor Filme,2022,Indicado
+84,21,Venice Film Festival,Melhor Diretor,2023,Indicado
+85,21,Cannes,Melhor Atriz,2022,Vencedor
+86,21,Sundance,Melhor Atriz,2023,Vencedor
+87,22,Globo de Ouro,Melhores Efeitos Visuais,2024,Indicado
+88,22,Globo de Ouro,Melhor Diretor,2024,Indicado
+89,23,Venice Film Festival,Melhor Diretor,2020,Indicado
+90,24,Globo de Ouro,Melhores Efeitos Visuais,2022,Indicado
+91,24,BAFTA,Melhores Efeitos Visuais,2022,Indicado
+92,24,Oscar,Melhor Ator,2021,Indicado
+93,24,Sundance,Melhor Roteiro Adaptado,2022,Indicado
+94,25,BAFTA,Melhor Atriz,2022,Indicado
+95,25,Globo de Ouro,Melhor Diretor,2023,Indicado
+96,25,Globo de Ouro,Melhor Roteiro Adaptado,2022,Indicado
+97,25,Globo de Ouro,Melhor Atriz,2022,Vencedor
+98,25,Oscar,Melhor Fotografia,2022,Indicado
+99,25,Cannes,Melhor Edição,2023,Indicado
+100,25,Globo de Ouro,Melhor Edição,2023,Indicado
+101,26,Venice Film Festival,Melhor Trilha Sonora,2023,Indicado
+102,26,Oscar,Melhor Trilha Sonora,2023,Indicado
+103,26,Oscar,Melhor Trilha Sonora,2023,Indicado
+104,26,Cannes,Melhor Atriz,2024,Indicado
+105,26,Sundance,Melhores Efeitos Visuais,2024,Vencedor
+106,29,Globo de Ouro,Melhor Filme,2022,Indicado
+107,30,Sundance,Melhor Atriz,2023,Indicado
+108,31,Venice Film Festival,Melhor Diretor,2020,Vencedor
+109,31,Oscar,Melhor Atriz,2020,Indicado
+110,32,Venice Film Festival,Melhor Fotografia,2022,Vencedor
+111,32,Globo de Ouro,Melhores Efeitos Visuais,2022,Indicado
+112,32,BAFTA,Melhor Filme,2022,Indicado
+113,33,Globo de Ouro,Melhores Efeitos Visuais,2022,Indicado
+114,33,BAFTA,Melhor Atriz,2022,Indicado
+115,33,Oscar,Melhor Roteiro Adaptado,2023,Indicado
+116,33,Venice Film Festival,Melhor Trilha Sonora,2023,Indicado
+117,33,Venice Film Festival,Melhores Efeitos Visuais,2023,Indicado
+118,34,Oscar,Melhor Roteiro Adaptado,2023,Indicado
+119,34,Sundance,Melhor Ator,2023,Indicado
+120,35,Venice Film Festival,Melhores Efeitos Visuais,2021,Vencedor
+121,35,Oscar,Melhor Fotografia,2020,Vencedor
+122,36,Oscar,Melhor Atriz,2021,Indicado
+123,36,Cannes,Melhor Ator,2022,Indicado
+124,36,BAFTA,Melhor Roteiro Adaptado,2022,Indicado
+125,36,Sundance,Melhor Fotografia,2022,Indicado
+126,36,BAFTA,Melhor Trilha Sonora,2022,Indicado
+127,36,Sundance,Melhores Efeitos Visuais,2021,Indicado
+128,36,Cannes,Melhor Atriz,2022,Vencedor
+129,37,Globo de Ouro,Melhor Ator,2023,Indicado
+130,37,Sundance,Melhor Diretor,2022,Vencedor
+131,37,Venice Film Festival,Melhor Ator,2022,Indicado
+132,37,Oscar,Melhor Trilha Sonora,2023,Indicado
+133,37,Sundance,Melhor Ator,2022,Indicado
+134,38,Cannes,Melhores Efeitos Visuais,2024,Vencedor
+135,38,Venice Film Festival,Melhor Roteiro Adaptado,2024,Indicado
+136,38,Venice Film Festival,Melhor Roteiro Original,2023,Indicado
+137,38,Cannes,Melhor Roteiro Adaptado,2024,Indicado
+138,38,Sundance,Melhor Roteiro Original,2024,Indicado
+139,38,Oscar,Melhor Edição,2023,Indicado
+140,38,BAFTA,Melhor Diretor,2023,Indicado
+141,39,Globo de Ouro,Melhor Fotografia,2020,Vencedor
+142,39,Oscar,Melhor Roteiro Original,2020,Indicado
+143,39,Cannes,Melhor Roteiro Adaptado,2021,Indicado
+144,39,BAFTA,Melhor Roteiro Adaptado,2020,Indicado
+145,40,Venice Film Festival,Melhor Roteiro Adaptado,2021,Vencedor
+146,40,BAFTA,Melhor Diretor,2022,Vencedor
+147,40,BAFTA,Melhor Edição,2022,Indicado
+148,40,BAFTA,Melhor Roteiro Adaptado,2021,Indicado
+149,40,Oscar,Melhor Filme,2021,Vencedor
+150,40,Globo de Ouro,Melhor Trilha Sonora,2021,Indicado
+151,41,Oscar,Melhor Roteiro Adaptado,2022,Indicado
+152,41,Venice Film Festival,Melhor Edição,2023,Indicado
+153,41,Sundance,Melhor Diretor,2022,Indicado
+154,41,BAFTA,Melhor Atriz,2023,Indicado
+155,41,Oscar,Melhor Filme,2023,Indicado
+156,42,Globo de Ouro,Melhor Roteiro Adaptado,2023,Indicado
+157,42,Globo de Ouro,Melhor Trilha Sonora,2024,Indicado
+158,43,BAFTA,Melhor Filme,2020,Indicado
+159,43,BAFTA,Melhor Trilha Sonora,2021,Indicado
+160,44,BAFTA,Melhor Atriz,2022,Indicado
+161,44,BAFTA,Melhor Roteiro Original,2022,Indicado
+162,44,BAFTA,Melhor Roteiro Adaptado,2022,Indicado
+163,44,Oscar,Melhor Roteiro Original,2021,Indicado
+164,44,Sundance,Melhor Fotografia,2022,Indicado
+165,44,Cannes,Melhor Fotografia,2022,Indicado
+166,45,Cannes,Melhor Ator,2022,Indicado
+167,45,BAFTA,Melhor Fotografia,2022,Vencedor
+168,45,Oscar,Melhor Fotografia,2022,Vencedor
+169,45,Oscar,Melhor Atriz,2022,Vencedor
+170,46,Cannes,Melhor Filme,2023,Indicado
+171,46,Sundance,Melhores Efeitos Visuais,2024,Indicado
+172,46,Venice Film Festival,Melhor Trilha Sonora,2024,Indicado
+173,48,Oscar,Melhores Efeitos Visuais,2022,Indicado
+174,49,Oscar,Melhor Diretor,2023,Vencedor
+175,49,Venice Film Festival,Melhor Diretor,2023,Vencedor
+176,49,Venice Film Festival,Melhor Trilha Sonora,2022,Indicado
+177,49,Venice Film Festival,Melhor Atriz,2022,Vencedor
+178,49,Sundance,Melhor Trilha Sonora,2023,Indicado
+179,49,Sundance,Melhor Roteiro Adaptado,2022,Indicado
+180,49,BAFTA,Melhor Roteiro Adaptado,2022,Vencedor
+181,49,Cannes,Melhor Ator,2023,Indicado
+182,50,Sundance,Melhor Ator,2024,Indicado
+183,50,Sundance,Melhor Fotografia,2024,Vencedor
+184,50,Sundance,Melhor Atriz,2023,Indicado
+185,50,Globo de Ouro,Melhor Ator,2023,Indicado
+186,50,Sundance,Melhor Roteiro Original,2023,Indicado
+187,51,Cannes,Melhor Diretor,2020,Indicado
+188,51,BAFTA,Melhor Diretor,2020,Indicado
+189,51,BAFTA,Melhor Trilha Sonora,2020,Indicado
+190,51,Globo de Ouro,Melhor Ator,2021,Indicado
+191,51,Oscar,Melhor Trilha Sonora,2020,Indicado
+192,53,Cannes,Melhor Atriz,2022,Indicado
+193,53,BAFTA,Melhor Edição,2022,Indicado
+194,53,Globo de Ouro,Melhor Filme,2022,Indicado
+195,53,Globo de Ouro,Melhor Trilha Sonora,2023,Indicado
+196,53,Venice Film Festival,Melhor Roteiro Adaptado,2022,Indicado
+197,53,Globo de Ouro,Melhor Trilha Sonora,2023,Indicado
+198,53,Globo de Ouro,Melhor Diretor,2022,Indicado
+199,54,Oscar,Melhor Atriz,2024,Indicado
+200,55,Cannes,Melhor Fotografia,2020,Indicado
+201,56,Globo de Ouro,Melhor Ator,2022,Indicado
+202,56,BAFTA,Melhor Atriz,2021,Vencedor
+203,57,Venice Film Festival,Melhor Roteiro Adaptado,2022,Indicado
+204,57,Oscar,Melhor Roteiro Original,2022,Indicado
+205,57,Sundance,Melhor Diretor,2022,Vencedor
+206,57,BAFTA,Melhor Filme,2023,Vencedor
+207,57,Cannes,Melhor Ator,2023,Vencedor
+208,57,Venice Film Festival,Melhor Fotografia,2022,Indicado
+209,57,Cannes,Melhor Diretor,2023,Vencedor
+210,57,Venice Film Festival,Melhor Fotografia,2023,Vencedor
+211,58,Oscar,Melhor Edição,2023,Indicado
+212,58,Cannes,Melhor Filme,2024,Vencedor
+213,58,Cannes,Melhor Fotografia,2023,Indicado
+214,58,Cannes,Melhor Atriz,2024,Indicado
+215,58,Sundance,Melhor Atriz,2023,Indicado
+216,58,BAFTA,Melhor Diretor,2024,Indicado
+217,58,Sundance,Melhores Efeitos Visuais,2024,Indicado
+218,58,Globo de Ouro,Melhor Trilha Sonora,2023,Vencedor
+219,59,Cannes,Melhor Filme,2021,Indicado
+220,59,Cannes,Melhor Trilha Sonora,2020,Indicado
+221,59,Globo de Ouro,Melhor Edição,2021,Indicado
+222,60,Globo de Ouro,Melhores Efeitos Visuais,2022,Vencedor
+223,61,Venice Film Festival,Melhor Filme,2022,Indicado
+224,61,Venice Film Festival,Melhor Atriz,2023,Indicado
+225,61,Cannes,Melhor Roteiro Adaptado,2022,Indicado
+226,61,Oscar,Melhor Roteiro Adaptado,2022,Indicado
+227,61,Cannes,Melhor Roteiro Original,2022,Indicado
+228,61,Globo de Ouro,Melhor Fotografia,2022,Vencedor
+229,61,Cannes,Melhor Trilha Sonora,2023,Indicado
+230,62,Globo de Ouro,Melhores Efeitos Visuais,2023,Indicado
+231,63,Globo de Ouro,Melhor Roteiro Adaptado,2020,Indicado
+232,63,Cannes,Melhor Fotografia,2021,Indicado
+233,63,Venice Film Festival,Melhor Ator,2020,Indicado
+234,63,Sundance,Melhor Ator,2021,Indicado
+235,63,Venice Film Festival,Melhor Edição,2020,Indicado
+236,64,Cannes,Melhor Atriz,2021,Indicado
+237,64,Oscar,Melhor Diretor,2022,Indicado
+238,64,Sundance,Melhor Ator,2021,Indicado
+239,64,Oscar,Melhor Fotografia,2022,Indicado
+240,65,BAFTA,Melhor Atriz,2022,Indicado
+241,65,Globo de Ouro,Melhor Filme,2023,Indicado
+242,65,Oscar,Melhor Filme,2023,Indicado
+243,65,BAFTA,Melhor Roteiro Adaptado,2023,Indicado
+244,65,BAFTA,Melhor Roteiro Adaptado,2023,Indicado
+245,66,Oscar,Melhor Trilha Sonora,2023,Vencedor
+246,66,Venice Film Festival,Melhor Roteiro Original,2023,Indicado
+247,66,Sundance,Melhor Fotografia,2023,Indicado
+248,66,Globo de Ouro,Melhor Filme,2023,Indicado
+249,66,Globo de Ouro,Melhor Roteiro Adaptado,2024,Vencedor
+250,67,Sundance,Melhor Roteiro Adaptado,2021,Vencedor
+251,67,Sundance,Melhor Roteiro Original,2021,Indicado
+252,67,Oscar,Melhor Roteiro Original,2020,Indicado
+253,67,Cannes,Melhor Ator,2021,Indicado
+254,67,BAFTA,Melhor Filme,2021,Indicado
+255,67,BAFTA,Melhor Edição,2021,Indicado
+256,67,Cannes,Melhor Diretor,2020,Vencedor
+257,68,BAFTA,Melhor Diretor,2021,Indicado
+258,68,Globo de Ouro,Melhor Ator,2022,Indicado
+259,68,Sundance,Melhores Efeitos Visuais,2021,Indicado
+260,68,Oscar,Melhor Trilha Sonora,2021,Indicado
+261,68,BAFTA,Melhores Efeitos Visuais,2021,Indicado
+262,68,Oscar,Melhor Diretor,2021,Vencedor
+263,68,Sundance,Melhor Ator,2021,Indicado
+264,68,Venice Film Festival,Melhor Trilha Sonora,2021,Indicado
+265,70,Venice Film Festival,Melhor Diretor,2024,Indicado
+266,70,Venice Film Festival,Melhor Atriz,2024,Vencedor
+267,70,Sundance,Melhor Ator,2023,Indicado
+268,71,BAFTA,Melhor Roteiro Original,2021,Indicado
+269,71,Oscar,Melhor Diretor,2021,Indicado
+270,71,Cannes,Melhor Roteiro Original,2021,Indicado
+271,72,Oscar,Melhor Ator,2022,Indicado
+272,72,BAFTA,Melhor Atriz,2021,Indicado
+273,72,Globo de Ouro,Melhor Filme,2022,Vencedor
+274,73,Sundance,Melhor Roteiro Adaptado,2023,Vencedor
+275,73,Oscar,Melhor Edição,2022,Indicado
+276,74,Sundance,Melhor Ator,2024,Vencedor
+277,75,Sundance,Melhor Filme,2020,Indicado
+278,75,Globo de Ouro,Melhor Diretor,2020,Indicado
+279,75,Oscar,Melhor Trilha Sonora,2021,Vencedor
+280,75,BAFTA,Melhor Edição,2021,Indicado
+281,75,Venice Film Festival,Melhor Diretor,2021,Indicado
+282,75,Oscar,Melhor Trilha Sonora,2020,Indicado
+283,76,Sundance,Melhor Filme,2022,Vencedor
+284,76,Globo de Ouro,Melhor Roteiro Original,2021,Indicado
+285,76,Venice Film Festival,Melhor Fotografia,2022,Indicado
+286,76,Sundance,Melhor Fotografia,2022,Vencedor
+287,77,Cannes,Melhor Filme,2022,Vencedor
+288,77,BAFTA,Melhor Ator,2023,Vencedor
+289,77,Cannes,Melhor Diretor,2022,Vencedor
+290,77,BAFTA,Melhor Fotografia,2022,Indicado
+291,77,Cannes,Melhor Fotografia,2022,Vencedor
+292,78,BAFTA,Melhor Edição,2024,Indicado
+293,78,Venice Film Festival,Melhor Diretor,2024,Vencedor
+294,78,Oscar,Melhor Diretor,2023,Indicado
+295,78,Sundance,Melhores Efeitos Visuais,2023,Indicado
+296,78,Globo de Ouro,Melhor Diretor,2024,Vencedor
+297,78,BAFTA,Melhor Fotografia,2023,Indicado
+298,78,BAFTA,Melhor Atriz,2024,Vencedor
+299,80,Oscar,Melhores Efeitos Visuais,2021,Indicado
+300,80,Globo de Ouro,Melhores Efeitos Visuais,2022,Vencedor
+301,80,Sundance,Melhor Atriz,2021,Indicado
+302,80,Cannes,Melhor Trilha Sonora,2022,Indicado
+303,80,Venice Film Festival,Melhor Atriz,2021,Indicado
+304,80,Cannes,Melhor Fotografia,2021,Vencedor
+305,81,Globo de Ouro,Melhor Filme,2022,Vencedor
+306,81,Globo de Ouro,Melhor Filme,2023,Indicado
+307,81,Sundance,Melhor Atriz,2022,Indicado
+308,82,Oscar,Melhor Trilha Sonora,2023,Indicado
+309,82,Venice Film Festival,Melhor Roteiro Adaptado,2024,Indicado
+310,82,Sundance,Melhor Atriz,2024,Indicado
+311,82,Oscar,Melhor Filme,2024,Indicado
+312,82,Globo de Ouro,Melhor Filme,2024,Indicado
+313,82,Globo de Ouro,Melhor Fotografia,2024,Indicado
+314,82,Oscar,Melhor Filme,2023,Vencedor
+315,82,Oscar,Melhor Roteiro Adaptado,2024,Indicado
+316,83,Globo de Ouro,Melhor Fotografia,2021,Vencedor
+317,83,Sundance,Melhor Fotografia,2021,Indicado
+318,83,Cannes,Melhor Roteiro Original,2020,Indicado
+319,83,Oscar,Melhor Fotografia,2020,Indicado
+320,84,Cannes,Melhor Filme,2021,Indicado
+321,84,Sundance,Melhor Roteiro Adaptado,2022,Indicado
+322,84,BAFTA,Melhor Diretor,2021,Vencedor
+323,84,Cannes,Melhor Filme,2022,Indicado
+324,84,BAFTA,Melhor Diretor,2021,Indicado
+325,84,BAFTA,Melhor Roteiro Adaptado,2021,Indicado
+326,84,Globo de Ouro,Melhor Ator,2022,Vencedor
+327,85,Venice Film Festival,Melhor Fotografia,2023,Indicado
+328,86,Globo de Ouro,Melhor Trilha Sonora,2024,Indicado
+329,86,BAFTA,Melhor Edição,2024,Indicado
+330,86,Cannes,Melhor Edição,2023,Indicado
+331,86,Sundance,Melhor Ator,2024,Indicado
+332,86,Cannes,Melhor Roteiro Adaptado,2024,Indicado
+333,86,Oscar,Melhor Edição,2023,Indicado
+334,86,BAFTA,Melhor Trilha Sonora,2023,Indicado
+335,87,BAFTA,Melhor Roteiro Adaptado,2021,Indicado
+336,87,Cannes,Melhor Roteiro Adaptado,2020,Indicado
+337,87,Cannes,Melhor Filme,2021,Vencedor
+338,87,Globo de Ouro,Melhor Atriz,2021,Indicado
+339,87,Sundance,Melhor Filme,2020,Indicado
+340,87,BAFTA,Melhor Filme,2021,Indicado
+341,87,Cannes,Melhores Efeitos Visuais,2021,Indicado
+342,87,Cannes,Melhor Atriz,2021,Indicado
+343,88,Globo de Ouro,Melhor Trilha Sonora,2021,Vencedor
+344,88,Globo de Ouro,Melhor Ator,2021,Vencedor
+345,88,Oscar,Melhor Atriz,2021,Indicado
+346,88,BAFTA,Melhor Edição,2021,Vencedor
+347,89,Venice Film Festival,Melhor Atriz,2022,Indicado
+348,89,Sundance,Melhor Diretor,2022,Indicado
+349,89,Venice Film Festival,Melhores Efeitos Visuais,2023,Indicado
+350,89,Globo de Ouro,Melhor Atriz,2023,Vencedor
+351,89,BAFTA,Melhor Roteiro Adaptado,2023,Indicado
+352,90,Globo de Ouro,Melhor Filme,2023,Vencedor
+353,90,Cannes,Melhor Roteiro Adaptado,2023,Indicado
+354,90,Venice Film Festival,Melhor Roteiro Original,2023,Indicado
+355,91,Cannes,Melhor Filme,2020,Vencedor
+356,91,Oscar,Melhor Edição,2021,Indicado
+357,91,Oscar,Melhor Ator,2021,Indicado
+358,91,BAFTA,Melhor Fotografia,2020,Vencedor
+359,91,Globo de Ouro,Melhor Fotografia,2020,Indicado
+360,91,Venice Film Festival,Melhor Atriz,2021,Indicado
+361,92,Sundance,Melhores Efeitos Visuais,2021,Vencedor
+362,92,Oscar,Melhor Roteiro Original,2021,Vencedor
+363,92,BAFTA,Melhor Roteiro Adaptado,2021,Indicado
+364,92,BAFTA,Melhor Diretor,2022,Indicado
+365,92,Sundance,Melhor Roteiro Adaptado,2022,Indicado
+366,93,BAFTA,Melhor Atriz,2022,Indicado
+367,93,Cannes,Melhor Edição,2022,Indicado
+368,93,BAFTA,Melhor Diretor,2022,Indicado
+369,93,Cannes,Melhor Trilha Sonora,2023,Indicado
+370,93,Cannes,Melhor Fotografia,2022,Indicado
+371,93,BAFTA,Melhor Filme,2022,Vencedor
+372,95,Oscar,Melhor Ator,2020,Indicado
+373,95,Globo de Ouro,Melhor Ator,2021,Indicado
+374,95,Venice Film Festival,Melhor Trilha Sonora,2021,Indicado
+375,95,Sundance,Melhor Filme,2021,Indicado
+376,96,Oscar,Melhor Ator,2022,Vencedor
+377,96,Venice Film Festival,Melhores Efeitos Visuais,2021,Indicado
+378,96,Venice Film Festival,Melhor Diretor,2021,Indicado
+379,96,Sundance,Melhor Diretor,2022,Indicado
+380,96,Globo de Ouro,Melhor Ator,2021,Indicado
+381,96,Venice Film Festival,Melhor Filme,2022,Indicado
+382,96,Globo de Ouro,Melhor Filme,2022,Vencedor
+383,96,BAFTA,Melhor Edição,2022,Indicado
+384,97,Globo de Ouro,Melhor Filme,2023,Vencedor
+385,97,Globo de Ouro,Melhor Fotografia,2023,Indicado
+386,97,Sundance,Melhor Fotografia,2023,Indicado
+387,98,Globo de Ouro,Melhor Edição,2023,Indicado
+388,98,Globo de Ouro,Melhor Edição,2022,Vencedor
+389,98,Sundance,Melhor Roteiro Adaptado,2023,Indicado
+390,98,Oscar,Melhor Atriz,2023,Indicado
+391,98,Globo de Ouro,Melhor Roteiro Adaptado,2023,Vencedor
+392,99,Cannes,Melhores Efeitos Visuais,2022,Indicado
+393,99,BAFTA,Melhores Efeitos Visuais,2023,Indicado
+394,99,Venice Film Festival,Melhor Trilha Sonora,2023,Indicado
+395,100,Sundance,Melhor Filme,2022,Indicado
+396,100,Cannes,Melhor Trilha Sonora,2023,Vencedor
+397,100,Cannes,Melhor Diretor,2022,Indicado
+398,100,Sundance,Melhor Diretor,2022,Indicado
+399,100,Cannes,Melhor Roteiro Original,2022,Indicado
+400,100,Cannes,Melhor Roteiro Adaptado,2022,Indicado
