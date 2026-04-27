@@ -27,8 +27,8 @@ Desenvolver habilidades práticas em análise de dados, resolvendo exercícios b
 ---
 
 ## 📂 Estrutura do projeto
-- `main.py` → exercícios em Python + SQL
-- `cinema.sqlite` → banco de dados utilizado
+- `src/` → código em Python (análise e consultas)
+- `data/` → arquivos CSV utilizados no projeto
 
 ---
 
